@@ -1,0 +1,6 @@
+Graphics: Blender, GIMP, Asprite
+Game Engine: Godot 4.5
+Audio: free sound effects from https://sonniss.com/gameaudiogdc/ + Audacity to edit
+Graphics concepts: Onyx Boox Go 10.3
+Planning environment: GitHub
+IDE: integrated in Godot 4.5
