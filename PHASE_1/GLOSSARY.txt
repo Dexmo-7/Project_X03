@@ -1,0 +1,8 @@
+G
+Game - this game -> Post-Apstro Rescuer
+
+P
+Player - Person, who play the Game
+
+S
+Spaceship - vehicle, which is controling by the Player
