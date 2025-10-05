@@ -1,0 +1,11 @@
+STATES:
+0:IDLE
+1:ALIVE
+2:BEGGING
+3:WALKING
+4:RESCUED
+
+ACTIONS:
+1) When see Spaceship: waving and wanted to be rescued
+2) When Spaceship near parked: walking to Spaceship
+3) Add points in The Base

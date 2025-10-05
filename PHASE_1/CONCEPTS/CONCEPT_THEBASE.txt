@@ -1,0 +1,9 @@
+STATES:
+0:IDLE
+1:REVIEW
+
+ACTIONS:
+1) Reparing the Spaceship
+2) Adding targets to Spaceship (Humans, Resources, etc.) -> MISSIONS
+3) Manage the Humans
+4) Manage upgrades for Spaceship
