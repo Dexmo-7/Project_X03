@@ -4,3 +4,4 @@ Audio: free sound effects from https://sonniss.com/gameaudiogdc/ + Audacity to e
 Graphics concepts: Onyx Boox Go 10.3
 Planning environment: GitHub
 IDE: integrated in Godot 4.5
+Architecture: draw.io

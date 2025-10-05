@@ -1,8 +1,17 @@
+C
+Culture Points (CPx) - one of the Human's attribute, CPx increase happiness in the whole Base
+
 G
 Game - this game -> Post-Apstro Rescuer
+
+K
+Knowledge Points (KPx) - one of the Human's attribute, KPx is the "currency" which help update the Base and Spaceship
 
 P
 Player - Person, who play the Game
 
 S
 Spaceship - vehicle, which is controling by the Player
+
+T
+Technical Points (TPx) - one of the Human's attribute, TPx increase speed of doing the technical tasks
