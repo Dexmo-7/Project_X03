@@ -1,0 +1,8 @@
+Initial group of environmental elements:
+- ground
+- rocks
+- water
+- ore??
+- tree??
+
+Collision systems -> hitting each elements will cost different damage.

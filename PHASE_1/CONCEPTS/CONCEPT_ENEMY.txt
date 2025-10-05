@@ -1,0 +1,7 @@
+Initial types of enemies:
+- cannon gun
+- laser gun
+
+ACTIONS:
+1) cannon gun - slow bullet which is constantly fired once for 3 seconds
+2) laser gun - aiming and blasting within 2 seconds

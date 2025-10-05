@@ -9,3 +9,11 @@ ACTIONS:
 1) When see Spaceship: waving and wanted to be rescued
 2) When Spaceship near parked: walking to Spaceship
 3) Add points in The Base
+
+PROPERTIES:
+A) Name
+B) Type
+C) Age??
+D) Technical points
+E) Knowledge points
+F) Culture points

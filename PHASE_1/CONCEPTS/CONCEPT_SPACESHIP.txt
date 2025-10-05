@@ -11,3 +11,5 @@ ACTIONS:
 3) rotate on the right if KEY ARROW RIGHT
 4) going down if in the air and no KEY ARROW UP
 5) take Humans if taking_npc_state[near] and ship_state[parked]
+6) has lifebar
+7) has protector shield (UPGRADE)
