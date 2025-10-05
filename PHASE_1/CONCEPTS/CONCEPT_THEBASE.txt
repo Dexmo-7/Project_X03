@@ -7,3 +7,8 @@ ACTIONS:
 2) Adding targets to Spaceship (Humans, Resources, etc.) -> MISSIONS
 3) Manage the Humans
 4) Manage upgrades for Spaceship
+
+POINTS:
+1) Knowledge (BOOK ICON): Unlock possible The Base and Spaceship updates.
+2) Technical (WRENCH ICON): Technical tasks are done faster and better.
+3) Culture (THEATRE MASK ICON): People are happier and more effective when culture is on high level.
