@@ -13,7 +13,7 @@ ACTIONS:
 PROPERTIES:
 A) Name
 B) Type
-C) Age??
-D) Technical points
-E) Knowledge points
-F) Culture points
+C) Points:
+	Technical
+	Knowledge
+	Culture
